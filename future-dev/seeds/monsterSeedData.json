@@ -1,0 +1,578 @@
+[
+  {
+    "name": "Alghoul",
+    "strength": 94,
+    "speed": 79,
+    "description": "A fearsome alghoul from the world of The Witcher.",
+    "rarity": 5,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/alghoul.png?raw=true"
+  },
+  {
+    "name": "Arachas",
+    "strength": 86,
+    "speed": 92,
+    "description": "A fearsome arachas from the world of The Witcher.",
+    "rarity": 1,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/arachas.png?raw=true"
+  },
+  {
+    "name": "Armoredarachas",
+    "strength": 66,
+    "speed": 74,
+    "description": "A fearsome armoredarachas from the world of The Witcher.",
+    "rarity": 3,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/armoredarachas.png?raw=true"
+  },
+  {
+    "name": "Bear",
+    "strength": 89,
+    "speed": 67,
+    "description": "A fearsome bear from the world of The Witcher.",
+    "rarity": 2,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/bear.png?raw=true"
+  },
+  {
+    "name": "Beast Beauclair",
+    "strength": 81,
+    "speed": 70,
+    "description": "A fearsome beast beauclair from the world of The Witcher.",
+    "rarity": 6,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/beast_beauclair.png?raw=true"
+  },
+  {
+    "name": "Berserker",
+    "strength": 82,
+    "speed": 59,
+    "description": "A fearsome berserker from the world of The Witcher.",
+    "rarity": 3,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/berserker.png?raw=true"
+  },
+  {
+    "name": "Botchling",
+    "strength": 52,
+    "speed": 79,
+    "description": "A fearsome botchling from the world of The Witcher.",
+    "rarity": 10,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/botchling.png?raw=true"
+  },
+  {
+    "name": "Bruxa",
+    "strength": 52,
+    "speed": 97,
+    "description": "A fearsome bruxa from the world of The Witcher.",
+    "rarity": 6,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/bruxa.png?raw=true"
+  },
+  {
+    "name": "Caretaker",
+    "strength": 70,
+    "speed": 35,
+    "description": "A fearsome caretaker from the world of The Witcher.",
+    "rarity": 3,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/caretaker.png?raw=true"
+  },
+  {
+    "name": "Chort",
+    "strength": 90,
+    "speed": 84,
+    "description": "A fearsome chort from the world of The Witcher.",
+    "rarity": 6,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/chort.png?raw=true"
+  },
+  {
+    "name": "Cloud Giant",
+    "strength": 80,
+    "speed": 91,
+    "description": "A fearsome cloud giant from the world of The Witcher.",
+    "rarity": 3,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/cloud_giant.png?raw=true"
+  },
+  {
+    "name": "Crones",
+    "strength": 94,
+    "speed": 100,
+    "description": "A fearsome crones from the world of The Witcher.",
+    "rarity": 6,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/crones.png?raw=true"
+  },
+  {
+    "name": "Cyclops",
+    "strength": 78,
+    "speed": 64,
+    "description": "A fearsome cyclops from the world of The Witcher.",
+    "rarity": 6,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/cyclops.png?raw=true"
+  },
+  {
+    "name": "Dagonet",
+    "strength": 97,
+    "speed": 46,
+    "description": "A fearsome dagonet from the world of The Witcher.",
+    "rarity": 4,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/dagonet.png?raw=true"
+  },
+  {
+    "name": "Dettlaff Vampire",
+    "strength": 69,
+    "speed": 42,
+    "description": "A fearsome dettlaff vampire from the world of The Witcher.",
+    "rarity": 7,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/dettlaff_vampire.png?raw=true"
+  },
+  {
+    "name": "Devilbythewell",
+    "strength": 69,
+    "speed": 31,
+    "description": "A fearsome devilbythewell from the world of The Witcher.",
+    "rarity": 1,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/devilbythewell.png?raw=true"
+  },
+  {
+    "name": "Drowner",
+    "strength": 95,
+    "speed": 59,
+    "description": "A fearsome drowner from the world of The Witcher.",
+    "rarity": 8,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/drowner.png?raw=true"
+  },
+  {
+    "name": "Earthelemental",
+    "strength": 73,
+    "speed": 99,
+    "description": "A fearsome earthelemental from the world of The Witcher.",
+    "rarity": 7,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/earthelemental.png?raw=true"
+  },
+  {
+    "name": "Ekhidna",
+    "strength": 85,
+    "speed": 55,
+    "description": "A fearsome ekhidna from the world of The Witcher.",
+    "rarity": 6,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/ekhidna.jpg?raw=true"
+  },
+  {
+    "name": "Ekimmara",
+    "strength": 55,
+    "speed": 85,
+    "description": "A fearsome ekimmara from the world of The Witcher.",
+    "rarity": 8,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/ekimmara.png?raw=true"
+  },
+  {
+    "name": "Endregadrone",
+    "strength": 100,
+    "speed": 85,
+    "description": "A fearsome endregadrone from the world of The Witcher.",
+    "rarity": 5,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/endregadrone.png?raw=true"
+  },
+  {
+    "name": "Endregawarrior",
+    "strength": 71,
+    "speed": 80,
+    "description": "A fearsome endregawarrior from the world of The Witcher.",
+    "rarity": 8,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/endregawarrior.png?raw=true"
+  },
+  {
+    "name": "Endregaworker",
+    "strength": 90,
+    "speed": 95,
+    "description": "A fearsome endregaworker from the world of The Witcher.",
+    "rarity": 3,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/endregaworker.png?raw=true"
+  },
+  {
+    "name": "Erynia",
+    "strength": 62,
+    "speed": 71,
+    "description": "A fearsome erynia from the world of The Witcher.",
+    "rarity": 8,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/erynia.png?raw=true"
+  },
+  {
+    "name": "Fiend",
+    "strength": 71,
+    "speed": 96,
+    "description": "A fearsome fiend from the world of The Witcher.",
+    "rarity": 2,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/fiend.png?raw=true"
+  },
+  {
+    "name": "Fireelemental",
+    "strength": 95,
+    "speed": 49,
+    "description": "A fearsome fireelemental from the world of The Witcher.",
+    "rarity": 6,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/fireelemental.png?raw=true"
+  },
+  {
+    "name": "Foglet",
+    "strength": 77,
+    "speed": 78,
+    "description": "A fearsome foglet from the world of The Witcher.",
+    "rarity": 9,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/foglet.png?raw=true"
+  },
+  {
+    "name": "Forktail",
+    "strength": 61,
+    "speed": 57,
+    "description": "A fearsome forktail from the world of The Witcher.",
+    "rarity": 5,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/forktail.png?raw=true"
+  },
+  {
+    "name": "Fugas",
+    "strength": 89,
+    "speed": 85,
+    "description": "A fearsome fugas from the world of The Witcher.",
+    "rarity": 2,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/fugas.png?raw=true"
+  },
+  {
+    "name": "Gael",
+    "strength": 56,
+    "speed": 90,
+    "description": "A fearsome gael from the world of The Witcher.",
+    "rarity": 3,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/gael.png?raw=true"
+  },
+  {
+    "name": "Gargoyle",
+    "strength": 79,
+    "speed": 60,
+    "description": "A fearsome gargoyle from the world of The Witcher.",
+    "rarity": 5,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/gargoyle.png?raw=true"
+  },
+  {
+    "name": "Ghoul",
+    "strength": 74,
+    "speed": 36,
+    "description": "A fearsome ghoul from the world of The Witcher.",
+    "rarity": 1,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/ghoul.png?raw=true"
+  },
+  {
+    "name": "Godling",
+    "strength": 92,
+    "speed": 67,
+    "description": "A fearsome godling from the world of The Witcher.",
+    "rarity": 8,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/godling.png?raw=true"
+  },
+  {
+    "name": "Golem",
+    "strength": 58,
+    "speed": 56,
+    "description": "A fearsome golem from the world of The Witcher.",
+    "rarity": 4,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/golem.png?raw=true"
+  },
+  {
+    "name": "Gravehag",
+    "strength": 83,
+    "speed": 67,
+    "description": "A fearsome gravehag from the world of The Witcher.",
+    "rarity": 5,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/gravehag.png?raw=true"
+  },
+  {
+    "name": "Griffin",
+    "strength": 64,
+    "speed": 46,
+    "description": "A fearsome griffin from the world of The Witcher.",
+    "rarity": 2,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/griffin.png?raw=true"
+  },
+  {
+    "name": "Hagubman",
+    "strength": 90,
+    "speed": 69,
+    "description": "A fearsome hagubman from the world of The Witcher.",
+    "rarity": 6,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/hagubman.png?raw=true"
+  },
+  {
+    "name": "Harpy",
+    "strength": 71,
+    "speed": 33,
+    "description": "A fearsome harpy from the world of The Witcher.",
+    "rarity": 3,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/harpy.png?raw=true"
+  },
+  {
+    "name": "Harrisi",
+    "strength": 86,
+    "speed": 54,
+    "description": "A fearsome harrisi from the world of The Witcher.",
+    "rarity": 8,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/harrisi.png?raw=true"
+  },
+  {
+    "name": "Highervampire",
+    "strength": 72,
+    "speed": 56,
+    "description": "A fearsome highervampire from the world of The Witcher.",
+    "rarity": 10,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/highervampire.png?raw=true"
+  },
+  {
+    "name": "Houndofthewildhunt",
+    "strength": 73,
+    "speed": 49,
+    "description": "A fearsome houndofthewildhunt from the world of The Witcher.",
+    "rarity": 2,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/houndofthewildhunt.png?raw=true"
+  },
+  {
+    "name": "Howler",
+    "strength": 73,
+    "speed": 48,
+    "description": "A fearsome howler from the world of The Witcher.",
+    "rarity": 1,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/howler.png?raw=true"
+  },
+  {
+    "name": "Hym",
+    "strength": 70,
+    "speed": 82,
+    "description": "A fearsome hym from the world of The Witcher.",
+    "rarity": 1,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/hym.png?raw=true"
+  },
+  {
+    "name": "Icegiant",
+    "strength": 78,
+    "speed": 94,
+    "description": "A fearsome icegiant from the world of The Witcher.",
+    "rarity": 1,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/icegiant.png?raw=true"
+  },
+  {
+    "name": "Icetroll",
+    "strength": 58,
+    "speed": 93,
+    "description": "A fearsome icetroll from the world of The Witcher.",
+    "rarity": 7,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/icetroll.png?raw=true"
+  },
+  {
+    "name": "Jennyothewoods",
+    "strength": 81,
+    "speed": 56,
+    "description": "A fearsome jennyothewoods from the world of The Witcher.",
+    "rarity": 10,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/jennyothewoods.png?raw=true"
+  },
+  {
+    "name": "Katakan",
+    "strength": 71,
+    "speed": 94,
+    "description": "A fearsome katakan from the world of The Witcher.",
+    "rarity": 6,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/katakan.png?raw=true"
+  },
+  {
+    "name": "Leshen",
+    "strength": 67,
+    "speed": 94,
+    "description": "A fearsome leshen from the world of The Witcher.",
+    "rarity": 3,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/leshen.png?raw=true"
+  },
+  {
+    "name": "Nekker",
+    "strength": 51,
+    "speed": 32,
+    "description": "A fearsome nekker from the world of The Witcher.",
+    "rarity": 3,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/nekker.png?raw=true"
+  },
+  {
+    "name": "Nightwraith",
+    "strength": 65,
+    "speed": 41,
+    "description": "A fearsome nightwraith from the world of The Witcher.",
+    "rarity": 9,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/nightwraith.png?raw=true"
+  },
+  {
+    "name": "Noonwraith",
+    "strength": 91,
+    "speed": 74,
+    "description": "A fearsome noonwraith from the world of The Witcher.",
+    "rarity": 1,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/noonwraith.png?raw=true"
+  },
+  {
+    "name": "Panther",
+    "strength": 54,
+    "speed": 72,
+    "description": "A fearsome panther from the world of The Witcher.",
+    "rarity": 1,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/panther.png?raw=true"
+  },
+  {
+    "name": "Protofleder",
+    "strength": 51,
+    "speed": 77,
+    "description": "A fearsome protofleder from the world of The Witcher.",
+    "rarity": 2,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/protofleder.png?raw=true"
+  },
+  {
+    "name": "Rocktroll",
+    "strength": 78,
+    "speed": 59,
+    "description": "A fearsome rocktroll from the world of The Witcher.",
+    "rarity": 8,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/rocktroll.png?raw=true"
+  },
+  {
+    "name": "Rotfiend",
+    "strength": 50,
+    "speed": 33,
+    "description": "A fearsome rotfiend from the world of The Witcher.",
+    "rarity": 4,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/rotfiend.png?raw=true"
+  },
+  {
+    "name": "Royalwyvern",
+    "strength": 51,
+    "speed": 87,
+    "description": "A fearsome royalwyvern from the world of The Witcher.",
+    "rarity": 5,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/royalwyvern.png?raw=true"
+  },
+  {
+    "name": "Siren",
+    "strength": 80,
+    "speed": 62,
+    "description": "A fearsome siren from the world of The Witcher.",
+    "rarity": 8,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/siren.png?raw=true"
+  },
+  {
+    "name": "Succubus",
+    "strength": 92,
+    "speed": 40,
+    "description": "A fearsome succubus from the world of The Witcher.",
+    "rarity": 2,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/succubus.png?raw=true"
+  },
+  {
+    "name": "Sylvan",
+    "strength": 76,
+    "speed": 44,
+    "description": "A fearsome sylvan from the world of The Witcher.",
+    "rarity": 6,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/sylvan.png?raw=true"
+  },
+  {
+    "name": "Theapiarianphantom",
+    "strength": 68,
+    "speed": 98,
+    "description": "A fearsome theapiarianphantom from the world of The Witcher.",
+    "rarity": 5,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/theapiarianphantom.png?raw=true"
+  },
+  {
+    "name": "Thedragonoffyresdal",
+    "strength": 95,
+    "speed": 83,
+    "description": "A fearsome thedragonoffyresdal from the world of The Witcher.",
+    "rarity": 3,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/thedragonoffyresdal.png?raw=true"
+  },
+  {
+    "name": "Therazane",
+    "strength": 96,
+    "speed": 47,
+    "description": "A fearsome therazane from the world of The Witcher.",
+    "rarity": 3,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/therazane.png?raw=true"
+  },
+  {
+    "name": "Thewhitelady",
+    "strength": 62,
+    "speed": 99,
+    "description": "A fearsome thewhitelady from the world of The Witcher.",
+    "rarity": 9,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/thewhitelady.png?raw=true"
+  },
+  {
+    "name": "Toad Prince",
+    "strength": 72,
+    "speed": 80,
+    "description": "A fearsome toad prince from the world of The Witcher.",
+    "rarity": 6,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/toad_prince.png?raw=true"
+  },
+  {
+    "name": "Ulfhedinn",
+    "strength": 65,
+    "speed": 84,
+    "description": "A fearsome ulfhedinn from the world of The Witcher.",
+    "rarity": 10,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/ulfhedinn.png?raw=true"
+  },
+  {
+    "name": "Venomousarachas",
+    "strength": 78,
+    "speed": 48,
+    "description": "A fearsome venomousarachas from the world of The Witcher.",
+    "rarity": 8,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/venomousarachas.png?raw=true"
+  },
+  {
+    "name": "Waterhag",
+    "strength": 52,
+    "speed": 41,
+    "description": "A fearsome waterhag from the world of The Witcher.",
+    "rarity": 3,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/waterhag.png?raw=true"
+  },
+  {
+    "name": "Werewolf",
+    "strength": 87,
+    "speed": 30,
+    "description": "A fearsome werewolf from the world of The Witcher.",
+    "rarity": 10,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/werewolf.png?raw=true"
+  },
+  {
+    "name": "Whamawham",
+    "strength": 85,
+    "speed": 48,
+    "description": "A fearsome whamawham from the world of The Witcher.",
+    "rarity": 4,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/whamawham.png?raw=true"
+  },
+  {
+    "name": "Wild Boar",
+    "strength": 96,
+    "speed": 56,
+    "description": "A fearsome wild boar from the world of The Witcher.",
+    "rarity": 8,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/wild_boar.png?raw=true"
+  },
+  {
+    "name": "Wolf",
+    "strength": 94,
+    "speed": 41,
+    "description": "A fearsome wolf from the world of The Witcher.",
+    "rarity": 8,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/wolf.png?raw=true"
+  },
+  {
+    "name": "Wyvern",
+    "strength": 99,
+    "speed": 56,
+    "description": "A fearsome wyvern from the world of The Witcher.",
+    "rarity": 8,
+    "image": "https://github.com/diwashrestha/WitcherAPI/blob/master/image/monsters/wyvern.png?raw=true"
+  }
+]

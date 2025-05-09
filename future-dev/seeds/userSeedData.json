@@ -1,0 +1,58 @@
+[
+  {
+    "username": "witcher01",
+    "password": "hashedpassword123",
+    "wins": 21,
+    "losses": 7,
+    "ties": 3
+  },
+  {
+    "username": "monsterSlayer",
+    "password": "hashedpassword123",
+    "wins": 50,
+    "losses": 67,
+    "ties": 14
+  },
+  {
+    "username": "yennefer",
+    "password": "hashedpassword123",
+    "wins": 64,
+    "losses": 46,
+    "ties": 12
+  },
+  {
+    "username": "triss",
+    "password": "hashedpassword123",
+    "wins": 60,
+    "losses": 38,
+    "ties": 7
+  },
+  {
+    "username": "dandelion",
+    "password": "hashedpassword123",
+    "wins": 75,
+    "losses": 7,
+    "ties": 8
+  },
+  {
+    "username": "vesemir",
+    "password": "hashedpassword123",
+    "wins": 39,
+    "losses": 75,
+    "ties": 16
+  },
+  {
+    "username": "sorceress77",
+    "password": "hashedpassword123",
+    "wins": 21,
+    "losses": 71,
+    "ties": 16
+  },
+  {
+    "username": "kaerMorhenKid",
+    "password": "hashedpassword123",
+    "wins": 84,
+    "losses": 55,
+    "ties": 0
+  }
+]
