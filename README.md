@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=appveyor&logo=linkedin&colorB=555)](https://linkedin.com/in/404pandas)
 
   <a href="https://github.com/404pandas/hmm">
-    <img src="./logo.png" alt="Geralt from The Witcher with the MERN logos around him" width="80" height="80">
+    <img src="./logo.png" alt="Geralt from The Witcher with the MERN logos around him" width="250" height="400">
   </a>
 
 </div>
