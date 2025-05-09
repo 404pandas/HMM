@@ -9,9 +9,25 @@
 [![Issues](https://img.shields.io/github/issues/404pandas/hmm.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/hmm/issues)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=appveyor&logo=linkedin&colorB=555)](https://linkedin.com/in/404pandas)
 
+  <a href="https://github.com/404pandas/hmm">
+    <img src="./logo.png" alt="Geralt from The Witcher with the MERN logos around him" width="80" height="80">
+  </a>
+
 </div>
 
 A dark fantasy monster-fighting game inspired by _The Witcher_, built using the MERN stack (MongoDB, Express, React, Node.js) with JWT-based authentication and GraphQL APIs.
+
+## 📚 Table of Contents
+
+- [🚀 Live Demo](#-live-demo)
+- [🧰 Tech Stack](#-tech-stack)
+- [📦 Installation](#-installation)
+- [🗺️ Roadmap](#-roadmap)
+- [🔐 Environment Variables (`.env`)](#-environment-variables-env)
+- [📁 File Structure](#-file-structure)
+- [🧙 Author](#-author)
+- [🙏 Acknowledgements](#-acknowledgements)
+- [📜 License](#-license)
 
 ## 🚀 Live Demo
 
@@ -126,6 +142,12 @@ root/
 
 Created by Mary Elenius  
 🪄 [Portfolio](https://www.maryelenius.com)
+
+---
+
+## 🙏 Acknowledgements
+
+- Witcher images and data inspired by [diwashrestha/WitcherAPI](https://github.com/diwashrestha/WitcherAPI). All content belongs to their respective copyright.
 
 ---
 
