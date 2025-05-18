@@ -2,8 +2,8 @@ import db from "../config/connection.js";
 import { Monster, User } from "../models/index.js";
 import cleanDB from "./cleanDB.js";
 
-import userData from "./userSeedData.json" assert { type: "json" };
-import monsterData from "./monsterSeedData.json" assert { type: "json" };
+import userData from "./userSeedData.json" with { type: "json" };
+import monsterData from "./monsterSeedData.json" with { type: "json" };
 
 const seedDatabase = async (): Promise<void> => {
   try {

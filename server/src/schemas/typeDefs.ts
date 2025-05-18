@@ -13,6 +13,7 @@ const typeDefs = `
 
   type Query {
    monsters: [Monster]
+   
   }
 
 `;

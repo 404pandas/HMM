@@ -1,40 +1,44 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
+import {
+  ApolloClient,
+  InMemoryCache,
+  ApolloProvider,
+  createHttpLink,
+} from "@apollo/client";
+import { setContext } from "@apollo/client/link/context";
+
+import { Outlet } from "react-router-dom";
 import "./App.css";
 
-function App() {
-  const [count, setCount] = useState(0);
+const httpLink = createHttpLink({
+  uri: "/graphql",
+});
 
+const authLink = setContext((_, { headers }) => {
+  // get the authentication token from local storage if it exists
+  const token = localStorage.getItem("id_token");
+  // return the headers to the context so httpLink can read them
+  return {
+    headers: {
+      ...headers,
+      authorization: token ? `Bearer ${token}` : "",
+    },
+  };
+});
+
+const client = new ApolloClient({
+  link: authLink.concat(httpLink),
+  cache: new InMemoryCache(),
+});
+
+function App() {
   return (
-    <>
-      <div>
-        <a href='https://vite.dev' target='_blank'>
-          <img src={viteLogo} className='logo' alt='Vite logo' />
-        </a>
-        <a href='https://react.dev' target='_blank'>
-          <img src={reactLogo} className='logo react' alt='React logo' />
-        </a>
+    <ApolloProvider client={client}>
+      <div className="flex-column justify-flex-start min-100-vh">
+        <div className="container">
+          <Outlet />
+        </div>
       </div>
-      <h1>Vite + React</h1>
-      <div className='card'>
-        <button
-          onClick={() => {
-            setCount((count) => count + 1);
-            console.log(count);
-          }}
-        >
-          count is {count}
-        </button>
-        {count > 10 && <p>count is greater than 10</p>}
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className='read-the-docs'>
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
+    </ApolloProvider>
   );
 }
 

@@ -6,6 +6,11 @@ interface IUser extends Document {
   username: string;
   password: string;
   monsters: Schema.Types.ObjectId[];
+  gameStats: {
+    wins: number;
+    losses: number;
+    ties: number;
+  };
   isCorrectPassword(password: string): Promise<boolean>;
 }
 
@@ -29,6 +34,20 @@ const userSchema = new Schema<IUser>(
         ref: "Monster",
       },
     ],
+    gameStats: {
+      wins: {
+        type: Number,
+        default: 0,
+      },
+      losses: {
+        type: Number,
+        default: 0,
+      },
+      ties: {
+        type: Number,
+        default: 0,
+      },
+    },
   },
   {
     timestamps: true,
